@@ -15,7 +15,6 @@ Floo (Flow) is a pomodoro clock app that helps you get into a state of flow and 
 
 ## How it works
 You start the timer and you cannot exit it. If you click on the screen it stops. 
-
 It is primarily built for mobile devices because we work on the pc and laptop screens.
 If the timer is stopped and you exceed the set time you pass, if not you are prompted for a failed Floo. 
 A Leaderboard shows other players Floo time and concentrations for the day.
