@@ -1,5 +1,5 @@
 # Floo
-Floo is a pomodoro clock app that helps you get into a state of flow and concentration. You pair with other users and leaderboard systems.
+Floo (Flow) is a pomodoro clock app that helps you get into a state of flow and concentration. You pair with other users and leaderboard systems.
 
 ## Why you should use Floo
 If you are developer and you want to harness the state of flow and concentration in your workspace.
