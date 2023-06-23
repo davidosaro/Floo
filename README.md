@@ -13,7 +13,7 @@ It has a soothing music player.
 You get promoted or demoted per daily quota(target).
 You can share achivements and feats
 
-##How it works
+### How it works
 You start the timer and you cannot exit it. If you click on the screen it stops. 
 It is primarily built for mobile devices because we work on the pc and laptop screens.
 If the timer is stopped and you exceed the set time you pass, if not you are prompted for a failed Floo. 
