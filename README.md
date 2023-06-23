@@ -1,13 +1,13 @@
 # Floo
 A pomodoro clock app that helps you get into a state of flow and concentration. You pair with other users and leaderboard systems.
 
-##Why you should use Floo
+## Why you should use Floo
 If you are developer and you want to harness the state of flow and concentration in your workspace.
 If you want to improve your productivity
 If you want a community of support and challenge
 If you want a challenge and change of work-life-habits
 
-##What does it do better than other pomodoro apps? 
+## What does it do better than other pomodoro apps? 
 it has a leaderboard system, You play with other people.
 It has a soothing music player.
 You get promoted or demoted per daily quota(target).
