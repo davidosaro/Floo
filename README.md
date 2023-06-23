@@ -8,7 +8,7 @@ Floo (Flow) is a pomodoro clock app that helps you get into a state of flow and 
 * If you want a challenge and change of work-life-habits.
 
 ## What does it do better than other pomodoro apps? 
-* it has a leaderboard system, You play with other people.
+* it has a leaderboard system, You see other users time spent and scores.
 * It has a soothing music player.
 * You get promoted or demoted per daily quota(target).
 * You can share achivements and feats.
